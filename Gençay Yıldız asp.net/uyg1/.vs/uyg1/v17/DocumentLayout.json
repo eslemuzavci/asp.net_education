@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|c:\\users\\eslem\\desktop\\asp.net_education\\gen\u00E7ay y\u0131ld\u0131z asp.net\\uyg1\\codeislife\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|solutionrelative:codeislife\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|c:\\users\\eslem\\desktop\\asp.net_education\\gen\u00E7ay y\u0131ld\u0131z asp.net\\uyg1\\codeislife\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|solutionrelative:codeislife\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|c:\\users\\eslem\\desktop\\asp.net_education\\gen\u00E7ay y\u0131ld\u0131z asp.net\\uyg1\\codeislife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|solutionrelative:codeislife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|c:\\users\\eslem\\desktop\\asp.net_education\\gen\u00E7ay y\u0131ld\u0131z asp.net\\uyg1\\codeislife\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|solutionrelative:codeislife\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|c:\\users\\eslem\\desktop\\asp.net_education\\gen\u00E7ay y\u0131ld\u0131z asp.net\\uyg1\\codeislife\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|solutionrelative:codeislife\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|c:\\users\\eslem\\desktop\\asp.net_education\\gen\u00E7ay y\u0131ld\u0131z asp.net\\uyg1\\codeislife\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|solutionrelative:codeislife\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|c:\\users\\eslem\\desktop\\asp.net_education\\gen\u00E7ay y\u0131ld\u0131z asp.net\\uyg1\\codeislife\\codeislife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2C50EE1-A0A4-4A77-90A7-319547D2CB47}|codeIsLife\\codeIsLife.csproj|solutionrelative:codeislife\\codeislife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "codeIsLife\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "codeIsLife\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:17:15.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Program.cs",
+              "RelativeDocumentMoniker": "codeIsLife\\Program.cs",
+              "ToolTip": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Program.cs",
+              "RelativeToolTip": "codeIsLife\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:11:27.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "codeIsLife\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "codeIsLife\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T11:20:42.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "codeIsLife\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "codeIsLife\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:19:01.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "codeIsLife\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "codeIsLife\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T10:50:18.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\appsettings.json",
+              "RelativeDocumentMoniker": "codeIsLife\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\appsettings.json",
+              "RelativeToolTip": "codeIsLife\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T09:11:10.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "codeIsLife.csproj",
+              "DocumentMoniker": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\codeIsLife.csproj",
+              "RelativeDocumentMoniker": "codeIsLife\\codeIsLife.csproj",
+              "ToolTip": "C:\\Users\\Eslem\\Desktop\\asp.net_education\\Gen\u00E7ay Y\u0131ld\u0131z asp.net\\uyg1\\codeIsLife\\codeIsLife.csproj",
+              "RelativeToolTip": "codeIsLife\\codeIsLife.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T09:02:01.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
